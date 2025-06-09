@@ -1,3 +1,19 @@
+Happy Drivers is a full-stack web application for tracking driver sponsorship points and managing applications.
+It was developed as a team project in Spring 2025 for my Senior Computing Practicum course at Clemson University.
+
+In this project, I worked on both the front-end and back-end of the application:
+
+Built the front-end using React and Next.js, with Tailwind CSS for styling.
+
+Helped design and implement a serverless backend using AWS Lambda, RDS (MySQL), and Cognito for user authentication and role-based access control.
+
+Created dynamic user dashboards and secure admin controls.
+
+Used version control with Git and GitHub to manage team collaboration and development flow.
+
+Through this project, I learned how to work on a team using Agile methodologies, implement cloud-based backends, and design a responsive user interface for a real-world application.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
